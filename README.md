@@ -1,6 +1,4 @@
-# CSC8502
-Advanced Graphics for Games
-Open GraphicsCoursework.sln in CSC8502\Graphics For Games\Graphics Coursework folder.
+To run, open GraphicsCoursework.sln in "CSC8502\Graphics For Games\Graphics Coursework" folder.
 Runs best in Release mode in 32-bit.
 
 Press left and right cursor keys to move between scenes. Usual A-D-W-S keys to navigate, with SHIFT and SPACE to levitate up and down.
