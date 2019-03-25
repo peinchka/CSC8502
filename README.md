@@ -7,4 +7,4 @@ Post-processing effects can be activated using T, Y, U, I, O, G, H, J and K keys
 Numbered keys (not on numeric keypad) change various parameters for these effects.
 P pauses and unpauses the demonstration.
 Full-stop key enables and disables the HUD.
-Escape key exists the application.
+Escape key exits the application.
