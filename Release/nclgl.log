@@ -1,0 +1,6 @@
+﻿  OGLRenderer.cpp
+OGLRenderer.cpp(138): error C2039: 'DebugCallback': is not a member of 'OGLRenderer'
+  c:\users\b7053261\documents\csc8502 code 2018\nclgl\OGLRenderer.h(93): note: see declaration of 'OGLRenderer'
+OGLRenderer.cpp(138): error C2065: 'DebugCallback': undeclared identifier
+OGLRenderer.cpp(261): error C2039: 'DebugCallback': is not a member of 'OGLRenderer'
+  c:\users\b7053261\documents\csc8502 code 2018\nclgl\OGLRenderer.h(93): note: see declaration of 'OGLRenderer'

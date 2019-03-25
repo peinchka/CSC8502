@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicsCoursework", "GraphicsCoursework.vcxproj", "{909A2CFC-6E55-4776-8B60-93B44103A9CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nclgl", "nclgl", "{F461D5BE-CCA7-442A-A0F7-B1C9C6717134}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\nclgl\Camera.cpp = ..\..\nclgl\Camera.cpp
+		..\..\nclgl\Camera.h = ..\..\nclgl\Camera.h
+		..\..\nclgl\ChildMeshInterface.h = ..\..\nclgl\ChildMeshInterface.h
+		..\..\nclgl\common.h = ..\..\nclgl\common.h
+		..\..\nclgl\Frustum.cpp = ..\..\nclgl\Frustum.cpp
+		..\..\nclgl\Frustum.h = ..\..\nclgl\Frustum.h
+		..\..\nclgl\GameTimer.cpp = ..\..\nclgl\GameTimer.cpp
+		..\..\nclgl\GameTimer.h = ..\..\nclgl\GameTimer.h
+		..\..\nclgl\HeightMap.cpp = ..\..\nclgl\HeightMap.cpp
+		..\..\nclgl\HeightMap.h = ..\..\nclgl\HeightMap.h
+		..\..\nclgl\InputDevice.h = ..\..\nclgl\InputDevice.h
+		..\..\nclgl\Keyboard.cpp = ..\..\nclgl\Keyboard.cpp
+		..\..\nclgl\Keyboard.h = ..\..\nclgl\Keyboard.h
+		..\..\nclgl\Light.h = ..\..\nclgl\Light.h
+		..\..\nclgl\Matrix4.cpp = ..\..\nclgl\Matrix4.cpp
+		..\..\nclgl\Matrix4.h = ..\..\nclgl\Matrix4.h
+		..\..\nclgl\MD5Anim.cpp = ..\..\nclgl\MD5Anim.cpp
+		..\..\nclgl\MD5Anim.h = ..\..\nclgl\MD5Anim.h
+		..\..\nclgl\MD5FileData.cpp = ..\..\nclgl\MD5FileData.cpp
+		..\..\nclgl\MD5FileData.h = ..\..\nclgl\MD5FileData.h
+		..\..\nclgl\MD5Mesh.cpp = ..\..\nclgl\MD5Mesh.cpp
+		..\..\nclgl\MD5Mesh.h = ..\..\nclgl\MD5Mesh.h
+		..\..\nclgl\MD5Node.cpp = ..\..\nclgl\MD5Node.cpp
+		..\..\nclgl\MD5Node.h = ..\..\nclgl\MD5Node.h
+		..\..\nclgl\Mesh.cpp = ..\..\nclgl\Mesh.cpp
+		..\..\nclgl\Mesh.h = ..\..\nclgl\Mesh.h
+		..\..\nclgl\Mouse.cpp = ..\..\nclgl\Mouse.cpp
+		..\..\nclgl\Mouse.h = ..\..\nclgl\Mouse.h
+		..\..\nclgl\nclgl.vcxproj = ..\..\nclgl\nclgl.vcxproj
+		..\..\nclgl\OBJMesh.cpp = ..\..\nclgl\OBJMesh.cpp
+		..\..\nclgl\OBJMesh.h = ..\..\nclgl\OBJMesh.h
+		..\..\nclgl\OGLRenderer.cpp = ..\..\nclgl\OGLRenderer.cpp
+		..\..\nclgl\OGLRenderer.h = ..\..\nclgl\OGLRenderer.h
+		..\..\nclgl\ParticleEmitter.cpp = ..\..\nclgl\ParticleEmitter.cpp
+		..\..\nclgl\ParticleEmitter.h = ..\..\nclgl\ParticleEmitter.h
+		..\..\nclgl\Plane.cpp = ..\..\nclgl\Plane.cpp
+		..\..\nclgl\Plane.h = ..\..\nclgl\Plane.h
+		..\..\nclgl\Quaternion.cpp = ..\..\nclgl\Quaternion.cpp
+		..\..\nclgl\Quaternion.h = ..\..\nclgl\Quaternion.h
+		..\..\nclgl\SceneNode.cpp = ..\..\nclgl\SceneNode.cpp
+		..\..\nclgl\SceneNode.h = ..\..\nclgl\SceneNode.h
+		..\..\nclgl\Shader.cpp = ..\..\nclgl\Shader.cpp
+		..\..\nclgl\Shader.h = ..\..\nclgl\Shader.h
+		..\..\nclgl\TextMesh.cpp = ..\..\nclgl\TextMesh.cpp
+		..\..\nclgl\TextMesh.h = ..\..\nclgl\TextMesh.h
+		..\..\nclgl\Vector2.h = ..\..\nclgl\Vector2.h
+		..\..\nclgl\Vector3.h = ..\..\nclgl\Vector3.h
+		..\..\nclgl\Vector4.h = ..\..\nclgl\Vector4.h
+		..\..\nclgl\Window.cpp = ..\..\nclgl\Window.cpp
+		..\..\nclgl\Window.h = ..\..\nclgl\Window.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909A2CFC-6E55-4776-8B60-93B44103A9CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{909A2CFC-6E55-4776-8B60-93B44103A9CF}.Debug|Win32.Build.0 = Debug|Win32
+		{909A2CFC-6E55-4776-8B60-93B44103A9CF}.Release|Win32.ActiveCfg = Release|Win32
+		{909A2CFC-6E55-4776-8B60-93B44103A9CF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E92FEB1F-C9FA-480C-8030-F7E63DD04E6A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+﻿  Camera.cpp
+  Frustum.cpp
+  GameTimer.cpp
+  HeightMap.cpp
+  Keyboard.cpp
+  Matrix4.cpp
+  MD5Anim.cpp
+  MD5FileData.cpp
+  MD5Mesh.cpp
+  MD5Node.cpp
+  Mesh.cpp
+  Mouse.cpp
+  OBJMesh.cpp
+  OGLRenderer.cpp
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+  Shader.cpp
+  TextMesh.cpp
+  Window.cpp
+  nclgl.vcxproj -> C:\Users\Ed\Desktop\CSC8502 Coursework\CSC8502 Coursework\Graphics For Games\Release\nclgl.lib
